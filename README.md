@@ -103,5 +103,4 @@ Working on this project helped me solidify my knowledge of backend development, 
 
 ---
 
-Happy coding! 😊
 
